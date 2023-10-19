@@ -1,0 +1,2 @@
+#!/bin/bash
+directorio_actual=$(pwd)
