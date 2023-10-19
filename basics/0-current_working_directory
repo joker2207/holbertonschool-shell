@@ -1,2 +1,3 @@
 #!/bin/bash
-directorio_actual=$(pwd)
+nombre_directorio=$(basename "$PWD")
+echo "/$nombre_directorio"
