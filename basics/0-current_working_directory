@@ -1,3 +1,2 @@
 #!/bin/bash
-nombre_directorio=$(basename "$PWD")
-echo "/$nombre_directorio"
+echo $(basename "$PWD")
