@@ -1,3 +1,2 @@
 #!/bin/bash
-# Cambiar el directorio de trabajo al directorio anterior
 cd -
