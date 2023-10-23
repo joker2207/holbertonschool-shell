@@ -1,2 +1,3 @@
 #!/bin/bash
-cd ~-
+# Cambiar el directorio de trabajo al directorio anterior
+cd -
