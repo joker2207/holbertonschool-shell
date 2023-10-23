@@ -1,14 +1,1 @@
-total 52
--rwxr-xr-x 1 root root  26 Oct 19 12:49 0-current_working_directory
--rwxr-xr-x 1 root root  17 Oct 23 08:06 10-back
--rw-r--r-- 1 root root  12 Oct 23 08:35 11-lists
--rwxr-xr-x 1 root root  15 Oct 19 12:49 1-listit
--rwxr-xr-x 1 root root  15 Oct 19 12:49 2-bring_me_home
--rwxr-xr-x 1 root root  18 Oct 19 12:49 3-listfiles
--rwxr-xr-x 1 root root  19 Oct 19 12:49 4-listmorefiles
--rwxr-xr-x 1 root root  20 Oct 19 12:49 5-listfilesdigitonly
--rwxr-xr-x 1 root root  45 Oct 19 12:49 6-firstdirectory
--rwxr-xr-x 1 root root  51 Oct 19 12:50 7-movethatfile
--rwxr-xr-x 1 root root  45 Oct 19 12:51 8-firstdelete
--rwxr-xr-x 1 root root  42 Oct 19 12:56 9-firstdirdeletion
--rw-r--r-- 1 root root  16 Oct 19 12:49 README.md total 0
+ls -la /boot / .. .
